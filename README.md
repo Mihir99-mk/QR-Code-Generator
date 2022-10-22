@@ -1,4 +1,4 @@
-"# QR-Code-Generator" 
+-# QR-Code-Generator
 [![Build Status](https://enchanting-llama-b91ea1.netlify.app/)]
 
 This QR-Code Generator helps you to generate Qr code easily!!
